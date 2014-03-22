@@ -10,4 +10,10 @@
       <context-root>CrudJSF</context-root>
     </web>
   </module>
+  <module>
+    <web>
+      <web-uri>CrudJSF.war</web-uri>
+      <context-root>toto</context-root>
+    </web>
+  </module>
 </application>
